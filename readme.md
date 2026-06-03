@@ -36,11 +36,19 @@ Dieses Frontend wurde bewusst mit **Vanilla JavaScript** erstellt, um die folgen
 
 ---
 
+## 🔗 Backend Repository
+
+Das zugehörige Backend befindet sich hier:
+
+https://github.com/NicoMeyerDev/Videoflix
+
+---
+
 ## Hinweis
 
-Dieses Projekt ist **ausschließlich für Schüler der Developer Akademie** gedacht und nicht zur freien Nutzung oder Weitergabe freigegeben.
-Im Ordner `EmailTemplates_Backend` findest du die **Vorlagen** für das erstellen der **E-Mails für das Backend**.
+Das Frontend basiert auf einer Vorlage der Developer Akademie und wurde im Rahmen der Weiterbildung bereitgestellt.
 
+Die Rechte am ursprünglichen Frontend-Design und den bereitgestellten Ausgangsdateien liegen bei der Developer Akademie. Dieses Repository dient ausschließlich zu Lern-, Demonstrations- und Portfoliozwecken.
 ---
 
 ## JSDoc - ansehen
